@@ -1,8 +1,15 @@
+/*
+	Напишите программу, которая выводит "Hello, Go!"
+	Sample Input:
+	Sample Output:
+	Hello, Go!
+*/
+
 package main
 
-
-import "fmt"
-
+import (
+	"fmt"
+)
 
 func main() {
 	fmt.Println("Hello, Go!")
